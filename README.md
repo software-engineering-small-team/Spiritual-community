@@ -83,8 +83,8 @@
   由于资源有限，我们的心理咨询板块更多地是作为一个辅助的板块。在这个板块中用户可以进行心理压力的测试，并且会给予用户适当的分析以及建议；同时也为用户提供了面对面咨询的渠道，用户可以自身需求的考虑下在这个板块预约老师进行线下咨询，寻求帮助。
 
 ### 3.2 界面功能思维导图 
+![image](https://user-images.githubusercontent.com/63738800/140767838-6110e6c5-5113-4b43-b6d4-42e3e667d56d.png)
 
-![image-20211108215521689](../../../../../../AppData/Roaming/Typora/typora-user-images/image-20211108215521689.png)
 
 ## 四、 软硬件及外部系统接口需求
 
@@ -96,11 +96,9 @@
 
 原型图链接：https://etupyd.axshare.com
 
-![image-20211108220320793](../../../../../../AppData/Roaming/Typora/typora-user-images/image-20211108220320793.png)
+![image](https://user-images.githubusercontent.com/63738800/140767924-332d4894-b1eb-43e8-bc00-e3a344a53259.png)
 
-
-
-![image-20211108220719008](../../../../../../AppData/Roaming/Typora/typora-user-images/image-20211108220719008.png)
+![image](https://user-images.githubusercontent.com/63738800/140767944-a969934e-a92d-4774-9019-f0089e1b50f2.png)
 
 ### 4.2 硬件需求
 
